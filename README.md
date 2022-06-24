@@ -6,4 +6,6 @@ For this code I used different libraries, but the most important one is tensorfl
 
 After some days training the model with different neuronal networks, I found this last model which has very great accuracies. These results were tested by 3 jpgs with a car, a bicycle, and a truck made out of CGI. 
 
-The model structure is saved on the filepath given in a .json, and the weights generated in a .h5
+The model structure is saved on the filepath given in a .json, and the weights generated in a .h5.
+
+The data was download from diferent datasets of kaggle, all about vehicle classification.
